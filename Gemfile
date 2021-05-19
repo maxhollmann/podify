@@ -8,7 +8,7 @@ gem 'dotenv-rails', "~> 2.7", groups: [:development, :test], require: 'dotenv/ra
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0', '>= 6.0.2.2'
 # Use Puma as the app server
-gem 'puma', '~> 4.3'
+gem 'puma', '~> 5.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 6.0'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
