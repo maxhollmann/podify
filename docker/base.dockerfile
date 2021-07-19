@@ -34,4 +34,4 @@ ENV RAILS_ENV=production
 
 # RUN rake assets:precompile
 
-RUN pip3 install youtube-dl
+RUN pip3 install -U youtube-dl
